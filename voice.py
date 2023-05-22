@@ -82,12 +82,10 @@ def run_assistant():
         translation=translator.translate(sentence)
         talk(translation)
     elif command == 'first game': 
-        tictactoe.main()
+        wordle.startwordle()
     elif command == 'second game':
         flappybird.main()
     elif command == 'third game':
-        wordle.startwordle()
+        tictactoe.main()
     elif command == 'nothing':
         print("no input detected")
-while True:
-    run_assistant()

@@ -190,3 +190,4 @@ def main():
     game = Game()
     board = Board(game)
     board.mainloop()
+    return
