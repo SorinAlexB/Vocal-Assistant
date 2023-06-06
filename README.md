@@ -1,5 +1,5 @@
 # Vocal-Assistant
-This is a project I made during my Python 101 course at Hackademy. Basically, it is a vocal assistant who can help engineers and also students in an engineering program. For this purpose, the assistant has two calculators, a scientific one and a matrix one, functions for data analysis, such as linear regression, and many more things. It has also incorporated three popular everlasting games (flappy bird, wordle, and tic-tac-toe). The assistant also has other functions that can help you in many ways, like YouTube searching, wikipedia searching for facts about a subject, and many more.
+This is a project I made during my Python 101 course at Hackademy. It is a vocal assistant who can help engineers and also students in an engineering program. For this purpose, the assistant has two calculators, a scientific one and a matrix one, functions for data analysis, such as linear regression, and many more things. It has also incorporated three popular everlasting games (flappy bird, wordle, and tic-tac-toe). The assistant also has other functions that can help you in many ways, like YouTube searching, Wikipedia searching for facts about a subject and many more. 
 <br/>
 <br/>
 ## Modules Used
