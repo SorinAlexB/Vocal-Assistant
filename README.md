@@ -57,5 +57,5 @@ git clone https://github.com/your-username/VocalAssistant.git
 2. Install the required dependencies (as mentioned above).
 3. Run the main script:
 ```bash
-python vocal_assistant.py
+python voice.py
 ```
